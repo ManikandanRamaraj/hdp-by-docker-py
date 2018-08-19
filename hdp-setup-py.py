@@ -5,7 +5,7 @@ import logging
 
 # log folder details 
 
-
+logdir = '/var/log/hdp-by-docker-py'
 
 
 # 
